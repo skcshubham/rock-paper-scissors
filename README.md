@@ -1,0 +1,1 @@
+This is a bug-free classic Stone-Paper-Scissors game which we all have played. The game runs on the console screen as of now but i plan to convert it into full-fleged "Browser game". The UI of the game is under progress. The game is made with JavaScript.
