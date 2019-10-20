@@ -1,1 +1,1 @@
-This is a bug-free classic Stone-Paper-Scissors game which we all have played. The game runs on the console screen as of now but i plan to convert it into full-fleged "Browser game". The UI of the game is under progress. The game is made with JavaScript.
+This is a bug-free classic Stone-Paper-Scissors game which we all have played in childhood. The game runs on browser and is fully responsive. The UI of the game is made using CSS3 and Bootstrap 4 whereas the logic is written in JavaScript. (ES6)
